@@ -2,6 +2,7 @@
 
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.qt",
 "versionNotes":"
+"newVersion" : "24"
 • Optimize UI Interface
 • Fixed Minor Bugs
 • Added In App Update API
