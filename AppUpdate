@@ -2,9 +2,9 @@
  "apkUrl": "https://play.google.com/store/apps/details?id=com.rsphvpn.v3",
  "versionNotes":"
 Fixed Minor Bugs
-Fixed Add Time Bugs (Automatically Reset)
+Fixed App Exiting (Auto Restart)
 Fixed UI Interface
 Re Layout of Alert Dialog
-Note: If there's an error after updating please Clear Data or Uninstall and Install Again.
+Note: If there's an error after updating please Clear Data.
  "
 }
